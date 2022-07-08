@@ -1,0 +1,8 @@
+/* font */
+@import url(//font.elice.io/EliceDigitalBaeum.css);
+@font-face {
+  font-family: "Elice Digital Baeum", sans-serif;
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansBold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
